@@ -1,2 +1,2 @@
 # FUNCTIONS PYTHON
- - Poner todas las funciones que se os occurran pero estructuradamente, porfavor.
+ - Poner todas las funciones que se os occurran pero siguiendo la estructura del el archivo.
